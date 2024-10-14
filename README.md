@@ -22,6 +22,7 @@ This project is a **Parking Management System** designed to automate vehicle and
 ## Technologies Used
 - **Programming Language**: C#
 - **IDE**: Visual Studio 2010 Professional
+- **Database**: MySQL
 
 ## How to Use
 1. Clone the repository:
