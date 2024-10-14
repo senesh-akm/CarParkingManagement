@@ -1,4 +1,4 @@
-# Parking Management System
+# Car Parking Management System
 
 This project is a **Parking Management System** designed to automate vehicle and customer data entry, parking duration tracking, fee calculation, and report generation. It is built using **C#** as a **desktop application** in **Visual Studio 2010 Professional**.
 
